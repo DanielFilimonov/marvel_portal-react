@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23FFFF00?logo=JavaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
 ![Static Badge](https://img.shields.io/badge/CSS-%231E90FF?logo=CSS)
+![Static Badge](https://img.shields.io/badge/Free_API-black?)
 
 ___
 
